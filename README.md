@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adham Ashraf Eltholth</h1>
-<h3 align="center">A passionate Full Stack Data Scientest from Egypt</h3>
+<h3 align="center">A passionate Data Scientest from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadhamashraf&label=Profile%20views&color=0e75b6&style=flat" alt="aadhamashraf" /> </p>
 
