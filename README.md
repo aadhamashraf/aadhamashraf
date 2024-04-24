@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Adham Ashraf Eltholth</h1>
-<!-- <h3 align="center">A passionate frontend developer from Egypt</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadhamashraf&label=Profile%20views&color=0e75b6&style=flat" alt="aadhamashraf" /> </p>
 
@@ -30,7 +29,6 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="40" height="40"/> </a>
 </p>
 
-
 ---
 
 
@@ -41,7 +39,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhamashraf&hide_border=true&theme=tokyonight" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhamashraf&hide_border=true&theme=tokyo-night" width="66%">
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhamashraf&hide_border=true&theme=tokyonight" alt="Streak Stats" width="47%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mozayed007&hide_border=true&theme=tokyonight" alt="Streak Stats" width="43%"/> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhamashraf&hide_border=true&theme=tokyonight" alt="Streak Stats" width="47%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aadhamashraf&hide_border=true&theme=tokyonight" alt="Streak Stats" width="43%"/> </p>
  </br>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadhamashraf&row=2&column=4&theme=onedark" alt="aadhamashraf" width="40%" />
