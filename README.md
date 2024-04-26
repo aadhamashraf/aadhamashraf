@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adham Ashraf Eltholth</h1>
+<!-- <h1 align="center">Hi 👋, I'm Adham Ashraf Eltholth</h1>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadhamashraf&label=Profile%20views&color=0e75b6&style=flat" alt="aadhamashraf" /> </p>
 
@@ -41,7 +41,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhamashraf&hide_border=true&theme=tokyonight" alt="Streak Stats" width="47%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aadhamashraf&hide_border=true&theme=tokyonight" alt="Streak Stats" width="43%"/> </p>
  </br>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadhamashraf&row=2&column=4&theme=onedark" alt="aadhamashraf" width="40%" />
+ 
+<!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadhamashraf&row=2&column=4&theme=onedark" alt="aadhamashraf" width="40%" /> -->
 </p>
 </br>
 
